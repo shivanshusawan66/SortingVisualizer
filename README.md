@@ -9,3 +9,5 @@ Developed an interactive web-based application to visually demonstrate the worki
 • JavaScript handles the logic behind each algorithm, enabling real-time updates and animations.<br />
 
 The project enhances the understanding of sorting algorithms by providing clear visual feedback and is designed to be responsive and lightweight for optimal performance.<br />
+
+https://github.com/user-attachments/assets/ce255010-a987-4f5a-a2ab-f6456c00ffda
